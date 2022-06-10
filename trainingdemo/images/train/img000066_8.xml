@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>img000066_8.jpg</filename>
+	<path>C:\Users\dipdg\Desktop\AAIC\AAIC\Interview\Allianz\Image\train\img000066_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>156</ymin>
+			<xmax>199</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>
