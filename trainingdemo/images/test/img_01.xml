@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>img_01.jpg</filename>
+	<path>C:\Users\dipdg\Desktop\AAIC\AAIC\Interview\Allianz\Image\test\img_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5000</width>
+		<height>1294</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>logo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>1</ymin>
+			<xmax>4998</xmax>
+			<ymax>1294</ymax>
+		</bndbox>
+	</object>
+</annotation>
